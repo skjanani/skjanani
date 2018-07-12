@@ -1,4 +1,4 @@
-if(n>1 && n<100000)
+if(n>=1 && n<=100000)
 {
 System.out.println("positive");
 }
